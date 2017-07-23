@@ -6,6 +6,6 @@ public class Hello {
 
         System.out.println("hehe in Hello");
 
-        System.out.println("I did something on my fu-branch");
+        System.out.println("I am Tom and I did something on the branch named 'another branch'");
     }
 }
